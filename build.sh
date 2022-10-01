@@ -11,4 +11,7 @@ pandoc mc/mods.md -f markdown -t html -s -c ../style.css -o public/mc/mods.html
 mkdir -p public/docs/CI-Downloads
 
 cp docs/CI-Downloads/*.png public/docs/CI-Downloads
-pandoc docs/CI-Downloads/CI-Downloads.md -f markdown -t html -s -o public/docs/CI-Downloads/CI-Downloads.html
+cp docs/CI-Downloads/*.html public/docs/CI-Downloads
+
+# CSS doesn't get generated when GitHub Actions runs this, idk why
+#pandoc docs/CI-Downloads/CI-Downloads.md -f markdown -t html -s -o public/docs/CI-Downloads/CI-Downloads.html
