@@ -5,14 +5,14 @@ Based on pandoc's generated stylesheet.
 html {
   line-height: 1.25;
   font-family: "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 1.2em;
   color: #1a1a1a;
   background-color: #ffffff;
 }
 
 body {
   margin: 0 auto;
-  /*max-width: 36em;*/
+  max-width: 800px;
   padding-left: 50px;
   padding-right: 50px;
   hyphens: auto;
@@ -20,7 +20,7 @@ body {
   text-rendering: optimizeLegibility;
   font-kerning: normal;
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   body {
   font-size: 0.9em;
   padding: 1em;
