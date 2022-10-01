@@ -125,9 +125,6 @@ header {
     background-color: #000000;
   }
   code {
-    font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
-    font-size: 65%;
-    margin: 0;
     color: #a0a0a0;
   }
 }
