@@ -20,6 +20,9 @@
 * [Neodymium](https://github.com/makamys/Neodymium) `[1.7.10] (2022-)`
     * Overhauls chunk mesh rendering to be more efficient.
 
+* [BucketNerf](https://github.com/makamys/BucketNerf) `[1.7.10] (2022-)`
+    * Removes the ability of buckets to place water blocks, and adds cooldown after milking Tameable Arachne mobs.
+
 ## Active forks
 
 * [MAtmos](https://github.com/makamys/MAtmos) `[1.7.10, 1.12.2] (2020-)`
