@@ -39,3 +39,5 @@
 * [Just Another Spawner](https://github.com/makamys/JustAnotherSpawner) `[1.7.10] (2021)`
     * Fixed a bug.
 
+* [Smart Moving](https://github.com/makamys/SmartMoving) `[1.7.10] (2022)`
+    * Fixed some issues and made some small tweaks.
