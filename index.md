@@ -1,6 +1,12 @@
 % makamys's website
 
-# hi
+hi.
 
-* [mine craft mods](mc/mods.html)
-* [git hub](https://github.com/makamys)
+## my stuff
+
+* [minecraft mods](mc/mods.html)
+* [mcmodbrowser](https://mcmodbrowser.github.io/)
+
+## github
+
+* [github](https://github.com/makamys)
