@@ -2,6 +2,8 @@
 Based on pandoc's generated stylesheet.
 */
 
+@import url(https://fonts.bunny.net/css?family=fira-sans:400);
+
 html {
   line-height: 1.25;
   font-family: "Fira Sans", "Segoe UI", Helvetica, Arial, sans-serif;
