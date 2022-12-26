@@ -23,7 +23,7 @@
 * [BucketNerf](https://github.com/makamys/BucketNerf) `[1.7.10] (2022-)`
     * Removes the ability of buckets to place water blocks, and adds cooldown after milking Tameable Arachne mobs.
 
-## Active forks
+## Major forks
 
 * [MAtmos](https://github.com/makamys/MAtmos) `[1.7.10, 1.12.2] (2020-)`
     * Fixed many issues, finished implementation of streamed sound playback, added indoor/outdoor detection system, and backported changes to 1.7.10.
@@ -39,5 +39,9 @@
 * [Just Another Spawner](https://github.com/makamys/JustAnotherSpawner) `[1.7.10] (2021)`
     * Fixed a bug.
 
-* [Smart Moving](https://github.com/makamys/SmartMoving) `[1.7.10] (2022)`
-    * Fixed some issues and made some small tweaks.
+* Smart Moving family
+    * [Smart Moving](https://github.com/makamys/SmartMoving) `[1.7.10] (2022)`
+        * Fixed some issues and made some small tweaks.
+
+    * [PlayerAPI](https://github.com/makamys/PlayerAPI) `[1.7.10] (2022)`
+        * Improved compatibility.
