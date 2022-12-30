@@ -3,7 +3,7 @@
 ## Original mods
 
 * [CoreTweaks](https://github.com/makamys/CoreTweaks) `[1.7.10] (2020-)`
-    * Collection of fixes, optimizations and debug tools, targetting the base game and other performance mods.
+    * Collection of fixes, optimizations and tweaks, targetting the base game and other performance mods.
 
 * [D-Mod](https://github.com/makamys/DMod) `[1.7.10] (2021-)`
     * Backports foxes and bundles from later versions of the game.
@@ -22,6 +22,9 @@
 
 * [BucketNerf](https://github.com/makamys/BucketNerf) `[1.7.10] (2022-)`
     * Removes the ability of buckets to place water blocks, and adds cooldown after milking Tameable Arachne mobs.
+
+* [DTools](https://github.com/makamys/DTools) `[1.7.10] (2022-)`
+    * Dumping ground for debug utilities. Branched off from CoreTweaks.
 
 ## Major forks
 
