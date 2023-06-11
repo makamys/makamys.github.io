@@ -26,6 +26,9 @@
 * [DTools](https://github.com/makamys/DTools) `[1.7.10] (2022-)`
     * Dumping ground for debug utilities. Branched off from CoreTweaks.
 
+* [UniMixins](https://github.com/LegacyModdingMC/UniMixins) `[1.7.10~1.12.2] (2023-)`
+    * One Mixin library mod to rule them all.
+
 ## Major forks
 
 * [MAtmos](https://github.com/makamys/MAtmos) `[1.7.10, 1.12.2] (2020-)`
