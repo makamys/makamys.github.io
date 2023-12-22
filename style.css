@@ -32,10 +32,12 @@ p {
   margin: 1em 0;
 }
 a {
-  color: #C69A33;
+  color: #BC9947;
+  transition: 0.2s;
 }
-a:visited {
-  color: #C69A33;
+a:hover {
+  color: #FFCE1E;
+  transition: 0.2s;
 }
 img {
   max-width: 100%;
