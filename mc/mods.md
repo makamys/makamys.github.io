@@ -51,3 +51,17 @@
 
     * [PlayerAPI](https://github.com/makamys/PlayerAPI) `[1.7.10] (2022)`
         * Improved compatibility.
+
+## Miscellanea
+
+* [EclipseGradleDependencyScope](https://github.com/makamys/EclipseGradleDependencyScope) `(2022)`
+    * Makes Eclipse less bad at Gradle.
+
+* [MappingGenerator](https://github.com/LegacyModdingMC/MappingGenerator) `(2023)`
+    * Layered mappings for RFG, only it's only parameter names.
+
+* [NotEnoughVerbosity](https://github.com/LegacyModdingMC/NotEnoughVerbosity) `[1.7.10] (2023)`
+    * Something to throw at people if they have bad logger configs.
+
+* [LaunchTweaks](https://github.com/makamys/LaunchTweaks) `(2023)`
+    * Development tweaks for LaunchWrapper.
