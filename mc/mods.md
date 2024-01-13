@@ -39,9 +39,6 @@
 * [WTFCaveBiomes](https://github.com/makamys/WTFCavebiomes) `[1.7.10] (2021)`
     * Fixed a bug, restored missing source code.
 
-* [The Aether](https://github.com/makamys/The-Aether-Archived/tree/fix-buttons-in-modded-guis) `[1.7.10] (2021)`
-    * Fixed a bug in the 1.7.10 version that is unmerged as of now.
-
 * [Just Another Spawner](https://github.com/makamys/JustAnotherSpawner) `[1.7.10] (2021)`
     * Fixed a bug.
 
