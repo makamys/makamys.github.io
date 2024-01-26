@@ -51,6 +51,9 @@
 
 ## Miscellanea
 
+* [NPSObfuscationMapper](https://github.com/makamys/NPSObfuscationMapper) `(2021)`
+    * A tool to deobfuscate VisualVM profiler snapshots.
+
 * [EclipseGradleDependencyScope](https://github.com/makamys/EclipseGradleDependencyScope) `(2022)`
     * Makes Eclipse less bad at Gradle.
 
