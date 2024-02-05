@@ -54,8 +54,8 @@
 * [NPSObfuscationMapper](https://github.com/makamys/NPSObfuscationMapper) `(2021)`
     * A tool to deobfuscate VisualVM profiler snapshots.
 
-* [EclipseGradleDependencyScope](https://github.com/makamys/EclipseGradleDependencyScope) `(2022)`
-    * Makes Eclipse less bad at Gradle.
+* [EclipseTweaks](https://github.com/makamys/EclipseGradleDependencyScope) `(2022-)`
+    * Eclipse dejankifier.
 
 * [MappingGenerator](https://github.com/LegacyModdingMC/MappingGenerator) `(2023)`
     * Layered mappings for RFG, only it's only parameter names.
